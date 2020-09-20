@@ -1,0 +1,5 @@
+Credentials cache: API:3A1874E2-6254-4D99-92B9-6E278C01E08E
+        Principal: lgrandje@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Sep  8 18:19:53 2020  Sep  9 18:19:53 2020  FPIA   krbtgt/42LYON.FR@42LYON.FR
