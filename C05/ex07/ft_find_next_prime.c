@@ -42,8 +42,9 @@ int		ft_find_next_prime(int nb)
 	return (0);
 }
 
+#include <stdio.h>
 int main()
 {
-	printf("%d", ft_find_next_prime(78));
+	printf("%d", ft_find_next_prime(200000));
 }
 

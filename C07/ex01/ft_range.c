@@ -12,6 +12,7 @@
 /* ************************************************************************** */
 
 #include <stdlib.h>
+#include <stdio.h>
 
 int	*ft_range(int min, int max)
 {
@@ -42,8 +43,8 @@ int main()
 	unsigned  int i;
 
 	i = 0;
-	mn = -2147483648;
-	mx = 2147483647;
+	mn = -15000;
+	mx = 15000;
 	range = ft_range(mn, mx);
 	while(mn < mx)
 	{
